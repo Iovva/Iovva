@@ -3,11 +3,9 @@
 </div>  
   
 <br/>  
-<br/>  
 
 ### <div align="center">Part-time student and full-time developer.</div>  
-
-<br/>  
+ 
 
 ## About me
 
