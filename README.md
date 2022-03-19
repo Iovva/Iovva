@@ -7,6 +7,8 @@
 
 <br/>  
 
+## About me
+
 - 📚 I’m studying Computer Science at  [Babeș-Bolyai University](https://www.cs.ubbcluj.ro/en/)  
   
 
