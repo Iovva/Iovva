@@ -6,6 +6,7 @@
 ### <div align="center">Part-time student and full-time developer.</div>  
 
 <br/>  
+<br/>  
 
 ## About me
 
