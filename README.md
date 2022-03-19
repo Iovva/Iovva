@@ -3,8 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Robert, part-time student and full-time developer.</div>  
-  
+### <div align="center">Part-time student and full-time developer.</div>  
+
+<br/>  
 
 - 📚 I’m studying Computer Science at  [Babeș-Bolyai University](https://www.cs.ubbcluj.ro/en/)  
   
@@ -16,9 +17,6 @@
   
 
 - 🎨 Full-stack developer. 💻  
-  
-
-  
   
 
 <br/>  
@@ -77,37 +75,3 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
