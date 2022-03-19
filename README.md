@@ -2,10 +2,11 @@
 <img src="https://github.com/Iovva/Iovva/blob/1d200cd1d7b9ba53e839fd55540ac448f94aac90/banner.png" align="center" style="width: 100%" />
 </div>  
   
+<br/>  
+<br/>  
 
 ### <div align="center">Part-time student and full-time developer.</div>  
 
-<br/>  
 <br/>  
 
 ## About me
