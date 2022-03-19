@@ -7,7 +7,7 @@
 ### <div align="center">Part-time student and full-time developer.</div>  
  
 
-## About me
+## About Me
 
 - 📚 I’m studying Computer Science at  [Babeș-Bolyai University](https://www.cs.ubbcluj.ro/en/)  
   
