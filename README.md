@@ -76,4 +76,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
+
+# Apart from the aforementioned, I have extentisve experience with audio/music software, such as: FL Studio, Ableton, Audacity, etc.
