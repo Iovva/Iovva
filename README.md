@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning JavaScript, React and Java.  
   
 
-- 💼 I am looking for a summer development internship.  
+- 💼 I'm looking for a summer development internship.  
   
 
 - 🎨 Full-stack developer. 💻  
