@@ -18,10 +18,8 @@
 - 💼 I'm looking for a summer development internship.  
   
   
-- 💻 Full-stack developer.   
+- 💻 Full-stack developer. 🎨   
 
-
-- 🎨 I like making music, writing code, and developing visual art.
 
 <br/>  
 
