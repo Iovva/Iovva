@@ -4,7 +4,7 @@
   
 <br/>  
 
-### <div align="center">Part-time student and full-time developer.</div>  
+### <div align="center">I do software.</div>  
  
 
 ## About Me
