@@ -4,7 +4,7 @@
   
 <br/>  
 
-### <div align="center">I do software.</div>  
+
  
 
 ## About Me
