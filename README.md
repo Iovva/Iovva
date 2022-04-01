@@ -9,6 +9,7 @@
 
 ## About Me
 
+
 - 📚 I’m studying Computer Science at  [Babeș-Bolyai University](https://www.cs.ubbcluj.ro/en/)  
   
 
@@ -18,8 +19,10 @@
 - 💼 I'm looking for a summer development internship.  
   
   
-- 💻 Full-stack developer. 🎨   
+- 🎨 Full-stack developer.    
 
+
+- 💻 [LinkedIn](https://www.linkedin.com/in/robert-andrei-pruteanu/) profile.
 
 <br/>  
 
@@ -29,7 +32,7 @@
 
 
 
-### Proficiente in:  
+### Proficient in:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />    
